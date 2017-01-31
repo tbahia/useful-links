@@ -11,6 +11,7 @@ A compilation of links I find useful.
 + [Front End Development Handbook](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
 + [Github Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 + [Git: The Simple Guide](http://rogerdudler.github.io/git-guide/)
++ [Build Your Own Twitter Bot!](https://medium.freecodecamp.com/easily-set-up-your-own-twitter-bot-4aeed5e61f7f#.jc0sor19b)
 
 # Your Portfolio 
  + [1000+ Beginner Projects](https://www.reddit.com/r/learnprogramming/comments/2a9ygh/1000_beginner_programming_projects_xpost/)
