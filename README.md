@@ -8,10 +8,14 @@ A compilation of links I find useful.
 + [Ruby on Rails Tutorial](https://docs.google.com/document/d/19YvwkJONv0criKr_xbkG0GKYvjIxC2Yr39-Ipz-RpwY/edit?usp=sharing)
 + [Django](https://tutorial.djangogirls.org/en/index.html)
 + [Getting Started With Open Source](https://www.hackerearth.com/getstarted-opensource/)
-+ [1000+ Beginner Projects](https://www.reddit.com/r/learnprogramming/comments/2a9ygh/1000_beginner_programming_projects_xpost/)
 + [Front End Development Handbook](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
 + [Github Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 + [Git: The Simple Guide](http://rogerdudler.github.io/git-guide/)
+
+# Your Portfolio 
+ + [1000+ Beginner Projects](https://www.reddit.com/r/learnprogramming/comments/2a9ygh/1000_beginner_programming_projects_xpost/)
+ + [Projects While You Leanr React with Ruby on Rails](https://medium.freecodecamp.com/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d#.agxj53dxq)
+
 
 # Being Informed
 + [Hacker News] (https://news.ycombinator.com/news)
