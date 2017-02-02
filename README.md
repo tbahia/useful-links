@@ -13,6 +13,9 @@ A compilation of links I find useful.
 + [Git: The Simple Guide](http://rogerdudler.github.io/git-guide/)
 + [Build Your Own Twitter Bot!](https://medium.freecodecamp.com/easily-set-up-your-own-twitter-bot-4aeed5e61f7f#.jc0sor19b)
 
+# Podcasts / Episodes
++ [Devpost's The Commit](https://devpost.com/thecommit)
+
 # Your Portfolio 
  + [1000+ Beginner Projects](https://www.reddit.com/r/learnprogramming/comments/2a9ygh/1000_beginner_programming_projects_xpost/)
  + [Projects While You Leanr React with Ruby on Rails](https://medium.freecodecamp.com/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d#.agxj53dxq)
