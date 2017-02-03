@@ -27,6 +27,7 @@ A compilation of links I find useful.
 ## Tech
 + [Hacker News] (https://news.ycombinator.com/news)
 + [TechCrunch] (https://techcrunch.com/)
+
 ## Everything
 + [theSkimm](http://www.theskimm.com/?r=ed44005a)
 
