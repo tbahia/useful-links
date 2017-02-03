@@ -16,6 +16,7 @@ A compilation of links I find useful.
 # Podcasts / Episodes
 + [Devpost's The Commit](https://devpost.com/thecommit)
 + [The Versioning Podcast: Discussing Web Dev to Design from the best in the biz](https://www.sitepoint.com/versioning-show/?utm_medium=email&utm_campaign=Welcome%20Email&utm_content=Welcome%20Email+&utm_source=CampaignMonitor%20SitePoint&utm_term=WATCH%20THE%20PODCAST)
++ [College Info Geek Podcast](https://collegeinfogeek.com/cast/)
 
 # Your Portfolio 
  + [1000+ Beginner Projects](https://www.reddit.com/r/learnprogramming/comments/2a9ygh/1000_beginner_programming_projects_xpost/)
