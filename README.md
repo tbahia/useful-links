@@ -13,6 +13,7 @@ A compilation of links I find useful.
 + [Git: The Simple Guide](http://rogerdudler.github.io/git-guide/)
 + [Build Your Own Twitter Bot!](https://medium.freecodecamp.com/easily-set-up-your-own-twitter-bot-4aeed5e61f7f#.jc0sor19b)
 + [CSS Animation Rocks](https://cssanimation.rocks/)
++ [250 Ivy League Courses You Can Take For Free](https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869#.y04d6w19a)
 
 # Podcasts / Episodes
 + [Devpost's The Commit](https://devpost.com/thecommit)
