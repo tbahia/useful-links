@@ -12,6 +12,7 @@ A compilation of links I find useful.
 + [Github Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 + [Git: The Simple Guide](http://rogerdudler.github.io/git-guide/)
 + [Build Your Own Twitter Bot!](https://medium.freecodecamp.com/easily-set-up-your-own-twitter-bot-4aeed5e61f7f#.jc0sor19b)
++ [CSS Animation Rocks](https://cssanimation.rocks/)
 
 # Podcasts / Episodes
 + [Devpost's The Commit](https://devpost.com/thecommit)
