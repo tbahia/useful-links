@@ -9,6 +9,7 @@ A compilation of links I find useful.
 + [Ruby on Rails Tutorial](https://docs.google.com/document/d/19YvwkJONv0criKr_xbkG0GKYvjIxC2Yr39-Ipz-RpwY/edit?usp=sharing)
 + [Django](https://tutorial.djangogirls.org/en/index.html)
 + [Getting Started With Open Source](https://www.hackerearth.com/getstarted-opensource/)
++ [GitHubs's Guide To Open Source](https://opensource.guide/)
 + [Front End Development Handbook](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
 + [Github Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 + [Git: The Simple Guide](http://rogerdudler.github.io/git-guide/)
@@ -17,6 +18,7 @@ A compilation of links I find useful.
 + [250 Ivy League Courses You Can Take For Free](https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869#.y04d6w19a)
 + [Build Modern Web Apps With MEAN](https://thinkster.io/tutorials/mean-stack)
 + [PHP The Right Way](http://www.phptherightway.com/)
++ [HTML Reference](http://htmlreference.io/)
 
 # Podcasts / Episodes
 + [Devpost's The Commit](https://devpost.com/thecommit)
