@@ -20,6 +20,7 @@ A compilation of links I find useful.
 + [PHP The Right Way](http://www.phptherightway.com/)
 + [HTML Reference](http://htmlreference.io/)
 + [Guide To AWS](https://github.com/open-guides/og-aws)
++ [A Baseline for Frontend Developers](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers)
 
 # Design
 + [Website Style Guide Resources](http://styleguides.io/)
