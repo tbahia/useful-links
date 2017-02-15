@@ -20,6 +20,9 @@ A compilation of links I find useful.
 + [PHP The Right Way](http://www.phptherightway.com/)
 + [HTML Reference](http://htmlreference.io/)
 
+# Design
++ [Website Style Guide Resources](http://styleguides.io/)
+
 # Podcasts / Episodes
 + [Devpost's The Commit](https://devpost.com/thecommit)
 + [The Versioning Podcast: Discussing Web Dev to Design from the best in the biz](https://www.sitepoint.com/versioning-show/?utm_medium=email&utm_campaign=Welcome%20Email&utm_content=Welcome%20Email+&utm_source=CampaignMonitor%20SitePoint&utm_term=WATCH%20THE%20PODCAST)
