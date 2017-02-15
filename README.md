@@ -19,6 +19,7 @@ A compilation of links I find useful.
 + [Build Modern Web Apps With MEAN](https://thinkster.io/tutorials/mean-stack)
 + [PHP The Right Way](http://www.phptherightway.com/)
 + [HTML Reference](http://htmlreference.io/)
++ [Guide To AWS](https://github.com/open-guides/og-aws)
 
 # Design
 + [Website Style Guide Resources](http://styleguides.io/)
