@@ -16,6 +16,7 @@ A compilation of links I find useful.
 + [CSS Animation Rocks](https://cssanimation.rocks/)
 + [250 Ivy League Courses You Can Take For Free](https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869#.y04d6w19a)
 + [Build Modern Web Apps With MEAN](https://thinkster.io/tutorials/mean-stack)
++ [PHP The Right Way](http://www.phptherightway.com/)
 
 # Podcasts / Episodes
 + [Devpost's The Commit](https://devpost.com/thecommit)
