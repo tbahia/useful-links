@@ -21,6 +21,7 @@ A compilation of links I find useful.
 + [HTML Reference](http://htmlreference.io/)
 + [Guide To AWS](https://github.com/open-guides/og-aws)
 + [A Baseline for Frontend Developers](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers)
++ [Build Animated Microinteractions with React](https://medium.freecodecamp.com/how-to-build-animated-microinteractions-in-react-aab1cb9fe7c8#.5yxnmofwa)
 
 # Design
 + [Website Style Guide Resources](http://styleguides.io/)
