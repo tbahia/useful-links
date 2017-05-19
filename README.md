@@ -41,6 +41,7 @@ A compilation of links I find useful.
  + [1000+ Beginner Projects](https://www.reddit.com/r/learnprogramming/comments/2a9ygh/1000_beginner_programming_projects_xpost/)
  + [Projects While You Learn React with Ruby on Rails](https://medium.freecodecamp.com/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d#.agxj53dxq)
  + [Profitable Side Hussle Examples](https://www.indiehackers.com/businesses)
+ + Make drawings using Turtle in Python
 
 
 # Being Informed
